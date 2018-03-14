@@ -2,11 +2,16 @@
 
 This repo is all about global issue tracking, branding and general org-wide stuff.
 
+## Fonts
+
+The primary font in use on the web is Lato, whereas we use the native fonts on all other platforms (Android & iOS).
+
 ## Colors
 
-We use `#2C4778` as our main brand color with `#3E69A9` being the lighter version of it.
+We use `#304388` as our main brand color. Text on the primary color should be `#FFF`, muted text on the primary color should be `rgba(255, 255, 255, .79)`.
+<div style="background: #304388; width: 300px; height: 100px; color: #fff">Primary</div>
 
-TBD: Color cards, accent colors, greyscale colors
+The primary (dark) text color is `#2F2F2F`, while you should use `#171717` as a darker alternative (e.g. for hovered links). The secondary, grey text color is `#5E5E5E`, while dividers are `#BBB`.
 
 ## Logo & Icons
 
